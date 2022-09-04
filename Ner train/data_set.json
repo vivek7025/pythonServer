@@ -1,0 +1,758 @@
+[
+    [
+        "Text message Vijay the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    18,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Vijay",
+         {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Vijay that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Vijay",
+         {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+         [
+        "call vijay",
+         {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "call vivek",
+         {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "call chithra",
+         {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Vijay that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Text message Rahul the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    18,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Rahul",
+         {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Rahul that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Rahul",
+         {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Rahul that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text message Vivek the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    18,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Vivek",
+         {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Vivek that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Vivek",
+         {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Vivek that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text message Neethu the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    19,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Neethu",
+         {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Neethu that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Neethu",
+         {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Neethu that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text message Lakshmi the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    20,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Lakshmi",
+         {
+            "entities": [
+                [
+                    18,
+                    25,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Lakshmi that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    25,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Lakshmi",
+         {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Lakshmi that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text message Sunil the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    18,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Sunil",
+         {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Sunil that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Sunil",
+         {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Sunil that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text message Acha the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Acha",
+         {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Acha that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Acha",
+         {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Acha that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text message Chithra the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    20,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Chithra",
+         {
+            "entities": [
+                [
+                    18,
+                    25,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Chithra that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    25,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Chithra",
+         {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Chithra that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text message Amma the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Amma",
+         {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Amma that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Amma",
+         {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Amma that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text message Raji the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Raji",
+         {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Raji that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Raji",
+         {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Raji that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text message Rajesh the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    19,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Rajesh",
+         {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Rajesh that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Rajesh",
+         {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Rajesh that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text message Rithvik the door is closed",
+         {
+            "entities": [
+                [
+                    13,
+                    20,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+      [
+        "Send a message to Rithvik",
+         {
+            "entities": [
+                [
+                    18,
+                    25,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Send a message to Rithvik that the door is closed",
+         {
+            "entities": [
+                [
+                    18,
+                    25,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Rithvik",
+         {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+        [
+        "Text Rithvik that the door is closed",
+         {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "PERSON"
+                ]
+            ]
+        }
+    ]
+]

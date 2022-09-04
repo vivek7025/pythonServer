@@ -1,0 +1,56 @@
+[
+  ["remind me going out at 7:00",
+    {
+      "entities":
+      [
+        [10, 19, "CONTENT"],
+        [23, 27, "TIME"]
+      ]
+    }
+  ],
+  ["remind me going out at 7",
+    {
+      "entities":
+      [
+        [10, 19, "CONTENT"],
+        [23, 24, "TIME"]
+      ]
+    }
+  ],
+  ["remind me at 5:00 going out for a walk",
+    {
+      "entities":
+      [
+        [18, 38, "CONTENT"],
+        [13, 17, "TIME"]
+      ]
+    }
+  ],
+  ["remind me at 5 going out for a walk",
+    {
+      "entities":
+      [
+        [15, 35, "CONTENT"],
+        [13, 14, "TIME"]
+      ]
+    }
+  ],
+  ["remind me to help hari at 9:00",
+    {
+      "entities":
+      [
+        [13, 22, "CONTENT"],
+        [26, 30, "TIME"]
+      ]
+    }
+  ],
+  ["remind me to help hari at 9",
+    {
+      "entities":
+      [
+        [13, 22, "CONTENT"],
+        [26, 27, "TIME"]
+      ]
+    }
+  ]
+]

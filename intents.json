@@ -1,0 +1,90 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello"
+      ],
+      "responses": [
+        "Hi there, how can I help?",
+        "hello"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [ "Bye", "See you later", "Goodbye","okay bye" ],
+      "responses": [
+        "bye"
+      ]
+    },
+    {
+      "tag": "bot",
+      "patterns": [ "veronica"],
+      "responses": [
+        "Yes Sir"
+      ]
+    },
+    {
+      "tag": "call",
+      "patterns": [ "make a call","can you call","call","i want you to call"],
+      "responses": [
+        "call"
+      ]
+    },
+    {
+      "tag": "callrecent",
+      "patterns": [ "Read my recent calls","check recent calls","who called recently","what was the last call i made","what is my recent call","what is the last call i made"],
+      "responses": [
+        "callrecent"
+      ]
+    },
+    {
+      "tag": "callmissed",
+      "patterns": [ "any missed calls","missed calls","any recent missed call"],
+      "responses": [
+        "callmissed"
+      ]
+    },
+      {
+      "tag": "reminder",
+      "patterns": [ "remind","can you remind","can you remind me","create a reminder","set a reminder","make a reminder","remind me to"],
+      "responses": [
+        "reminder"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [ "Thanks", "Thank you", "That was helpful", "Thank's a lot!" ],
+      "responses": [ "Happy to help!", "Any time!", "My pleasure" ]
+    },
+    {
+      "tag": "askmessagerecent",
+      "patterns": [ "read the last message","read the recent message", "read message"],
+      "responses": [ "askmessagerecent" ]
+    },
+    {
+      "tag": "askmessageunread",
+      "patterns": [ "how many unread messages are there","is there any unread messages", "count the unread messages"],
+      "responses": [ "askmessageunread" ]
+    },
+    {
+      "tag": "casualJoke",
+      "patterns": [ "tell me a joke", "tell a joke" ],
+      "responses": [ "casualJoke" ]
+    },
+       {
+      "tag": "time",
+      "patterns": [ "what time is it", "what is the time", "what is the current time" ],
+      "responses": [ "time" ]
+    },
+    {
+      "tag": "message",
+      "patterns": [ "send a message to vijay that", "text a message hari that", "text message","send a sms"],
+      "responses": [ "message" ]
+    }
+  ]
+}
